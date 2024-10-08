@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "course worck"
+version = "1"
+description = "pc"
+authors = ["pavel"]
+license = "ccc"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "yes"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
